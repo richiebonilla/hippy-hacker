@@ -6,8 +6,8 @@
 1. In the project directory, run `node index.js`.
 1. You will see a success message for every successful user who was fetched.
 1. Open `output.txt` to see the csv data.
-1. Copy contents of `output.txt` into a Google Sheet. Select the cells.
-1. In the `Data` menu select `Split text to columns...`
+1. Copy contents of `output.txt` into a Google Sheet. 
+1. Select the cells. In the `Data` menu select `Split text to columns...`
 1. You will see a tooltip on the rows of data that says `Separator:` click it, then select `Custom...`
 1. Enter `<//>` as the custom separator.
 1. Content should be organized into columns now.
