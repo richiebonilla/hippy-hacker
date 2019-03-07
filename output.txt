@@ -1,0 +1,8 @@
+login<//>name<//>company<//>blog<//>location<//>email<//>bio<//>public_repos<//>public_gists<//>followers<//>following<//>created_at<//>updated_at
+richieco<//>Richie Bonilla<//>null<//>http://www.richie.co<//>New York City<//>null<//>Product Designer & Aspiring Full-Stack Developer in New York City<//>7<//>0<//>0<//>0<//>2015-05-20T18:32:52Z<//>2019-02-12T19:35:07Z
+octocat<//>The Octocat<//>GitHub<//>http://www.github.com/blog<//>San Francisco<//>null<//>null<//>8<//>8<//>2553<//>9<//>2011-01-25T18:44:36Z<//>2019-02-22T15:27:33Z
+mcous<//>Mike Cousins<//>@Opentrons<//>https://mike.cousins.io<//>Brooklyn, NY<//>null<//>/[a-z]+ware/ engineer. I've drank too much coffee today.<//>38<//>7<//>41<//>41<//>2012-12-04T16:41:19Z<//>2019-02-27T03:39:45Z
+SamTS<//>Sam Strauch<//>null<//><//>New York City<//>null<//>null<//>6<//>2<//>0<//>0<//>2013-03-07T08:29:17Z<//>2019-03-01T20:55:28Z
+magniff<//>Aleksandr Koshkin<//>@PositiveTechnologies<//>magniff.info<//>Saint - Petersburg / Boston<//>null<//>dd if=/dev/zero of=/dev/null<//>84<//>0<//>30<//>18<//>2012-08-10T05:40:08Z<//>2019-02-01T15:57:24Z
+argeas<//>Leonidas<//>@nexmoinc <//><//>null<//>null<//>SDET<//>3<//>8<//>8<//>49<//>2016-03-10T17:17:41Z<//>2019-03-06T16:25:22Z
+sstant<//>Sebastian Stant<//>null<//><//>Brooklyn, NY<//>null<//>React x Node.js<//>1<//>0<//>2<//>0<//>2012-10-14T22:23:08Z<//>2019-02-27T14:02:59Z
