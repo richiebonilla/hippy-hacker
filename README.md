@@ -1,4 +1,4 @@
-0. Run `git clone` in the directory where you want the project to be located on your system.
+0. Run `git clone https://github.com/richieco/hippy-hacker.git` in the directory where you want the project to be located on your system.
 1. Navigate to the project directory in your terminal.
 1. Run `npm install` to install the required dependencies.
 1. Open `config.json` and switch all the desired values from `false` to `true`.
