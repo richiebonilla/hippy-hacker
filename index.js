@@ -7,7 +7,7 @@ String.prototype.replaceAll = function(search, replacement) {
 };
 
 function getUsernameFromUrl(url) {
-  const regex = /\/([A-Za-z0-9_-]*$)/;
+  const regex = /\/([A-Za-z0-9_-]*)\/?$/;
   const username = url.match(regex)[1];
   return username;
 }
